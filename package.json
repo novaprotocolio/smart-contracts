@@ -1,0 +1,18 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "coverage": "solidity-coverage",
+    "deploy-token": "truffle migrate --network development -f 3 --to 3"
+  },
+  "dependencies": {
+    "bignumber.js": "^7.2.1",
+    "ethereumjs-util": "^5.2.0",
+    "solidity-coverage": "^0.5.11",
+    "truffle": "^5.0.21",
+    "truffle-privatekey-provider": "^0.1.0",
+    "web3": "^1.0.0-beta.36"
+  }
+}
