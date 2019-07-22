@@ -7,7 +7,7 @@ module.exports = {
             host: '127.0.0.1',
             port: process.env.PORT || 8545,
             from: '0x31Ebd457b999Bf99759602f5Ece5AA5033CB56B3',
-            gas: 10000000,
+            gas: 4000000,
             gasPrice: 1
         },
         production: {
