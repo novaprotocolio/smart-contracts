@@ -1,9 +1,5 @@
 ## Nova Protocol
 
-[![CircleCI](https://circleci.com/gh/novaprotocolio/protocol/tree/master.svg?style=svg)](https://circleci.com/gh/novaprotocolio/protocol/tree/master)
-[![codecov](https://codecov.io/gh/novaprotocolio/protocol/branch/master/graph/badge.svg)](https://codecov.io/gh/novaprotocolio/protocol)
-
-
 > Nova Protocol is an open-source framework for building decentralized exchanges on Ethereum.
 
 ![](./images/nova_small.jpg)
