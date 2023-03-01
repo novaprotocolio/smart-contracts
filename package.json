@@ -10,8 +10,8 @@
   "dependencies": {
     "bignumber.js": "^7.2.1",
     "ethereumjs-util": "^5.2.0",
-    "solidity-coverage": "^0.5.11",
-    "truffle": "^5.0.21",
+    "solidity-coverage": "^0.8.2",
+    "truffle": "^5.7.8",
     "truffle-privatekey-provider": "^0.1.0",
     "web3": "^1.0.0-beta.36"
   }
